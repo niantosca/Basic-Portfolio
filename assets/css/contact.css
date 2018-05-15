@@ -1,0 +1,21 @@
+body {
+    background: #ffd89b;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #19547b, #ffd89b);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #19547b, #ffd89b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#form {
+    margin-left: 200px;
+
+}
+
+#contact {
+    margin-top: 10px;
+}
+
+#phone {
+    margin-top: 25px;
+    padding: 25px;
+    
+}

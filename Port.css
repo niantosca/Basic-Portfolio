@@ -1,0 +1,71 @@
+.header {
+    float: left;
+    padding: 50px;
+    height: 2px;
+    width: 1323px;
+    background-color:white;
+    margin-bottom: 25px;
+    margin-right: auto;
+    margin-top: 0px;
+    font-family: Helvetica, sans-serif;
+
+}
+
+
+body {
+    background: #ffd89b;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #19547b, #ffd89b);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #19547b, #ffd89b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+.topnav {
+    background-color: white;
+    overflow: hidden;
+    padding: 20px;
+    min-width: 100vh;
+    max-width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 3;
+    margin: 0 auto;
+    
+    
+}
+
+a {
+    color: slategray;
+    text-decoration: none;
+}
+
+
+
+
+#face {
+    clear: both;
+    float: left;
+    height: 200px;
+    width: 300px;
+    margin-right: 10px;
+    font-family: Helvetica, sans-serif;
+
+
+}
+
+#p1 {
+    clear: both;
+    float: left;
+    width: 45%;
+    margin-left: 50px;
+    background-color: white;
+    padding: 80px;
+    font-family: Helvetica, sans-serif;
+
+
+    
+}
+
+
