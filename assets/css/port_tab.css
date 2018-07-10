@@ -5,3 +5,31 @@ background: linear-gradient(to right, #19547b, #ffd89b); /* W3C, IE 10+/ Edge, F
 
 }
 
+#project {
+    margin-left: 25%;
+    border: 5px solid;
+    border-color: black;
+}
+#pUno {
+    margin-left: 13%;
+}
+
+#giphy {
+    margin-left: 25%;
+    border: 5px solid;
+    border-color: black;
+
+}
+#pDos {
+    margin-left: 13%;
+}
+
+#trivia {
+    margin-left: 25%;
+    border: 5px solid;
+    border-color: black;
+    margin-bottom: 15%;
+}
+#pTres {
+    margin-left: 13%;
+}
