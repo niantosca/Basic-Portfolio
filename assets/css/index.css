@@ -1,0 +1,78 @@
+body {
+    background: #ffd89b;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #19547b, #ffd89b);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #19547b, #ffd89b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#form {
+    margin-left: 200px;
+}
+#contact {
+    margin-top: 10px;
+}
+#phone {
+    margin-top: 25px;
+    padding: 25px;
+}
+.topnav {
+    background-color: white;
+    overflow: hidden;
+    padding: 20px;
+    min-width: 100vh;
+    max-width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+a {
+    color: slategray;
+    text-decoration: none;
+}
+h1 {
+    margin-top: 65px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+h2 {
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+#project {
+    margin-left: 25%;
+    border: 5px solid;
+    border-color: black;
+}
+#pUno {
+    margin-left: 13%;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+#giphy {
+    margin-left: 25%;
+    border: 5px solid;
+    border-color: black;
+}
+#pDos {
+    margin-left: 13%;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+#trivia {
+    margin-left: 25%;
+    border: 5px solid;
+    border-color: black;
+    margin-bottom: 15%;
+}
+#pTres {
+    margin-left: 13%;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+#about {
+    margin-top: 10px;
+    background-color: white;
+}
+#icons {
+    text-align: center;
+}
