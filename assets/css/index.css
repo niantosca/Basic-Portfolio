@@ -38,22 +38,7 @@ h2 {
     color: white;
     font-family: 'Lato', sans-serif;
 }
-#project {
-    margin-left: 25%;
-    border: 5px solid;
-    border-color: black;
-}
-#pUno {
-    margin-left: 13%;
-    font-family: 'Lato', sans-serif;
-    color: white;
-}
-#giphy {
-    margin-left: 25%;
-    border: 5px solid;
-    border-color: black;
-}
-#pDos {
+#pUno, #pDos, #pTres, #pCuatro {
     margin-left: 13%;
     font-family: 'Lato', sans-serif;
     color: white;
@@ -63,11 +48,6 @@ h2 {
     border: 5px solid;
     border-color: black;
     margin-bottom: 15%;
-}
-#pTres {
-    margin-left: 13%;
-    font-family: 'Lato', sans-serif;
-    color: white;
 }
 #about {
     margin-top: 10px;
