@@ -1,1 +1,1 @@
-# Basic-Portfolio
+This was a basic responsive portfolio page that I created a few weeks into learning HTML/CSS. I revisited it and improved the content and styling, and plan to rewrite the code using react.js in the near future. The portfolio tab at the top, displays clickable screenshots of a few of my projects that will bring you to their respective pages. 
